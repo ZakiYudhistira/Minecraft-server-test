@@ -13,7 +13,6 @@ services:
       MODE: "survival"
       ONLINE_MODE: "false"
       SERVER_NAME: "Jaki Ganteng"
-      MEMORY: 3G
       
     volumes:
       # attach the relative directory 'data' to the container's /data path
